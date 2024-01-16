@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: Sitemaps
+Sitemap: https://nexgenclicks.com/sitemap.xml
